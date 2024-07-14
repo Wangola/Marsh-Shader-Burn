@@ -1,10 +1,15 @@
-# Three.js Journey
+# Marsh Shader Burn is an extension of the Coffee Smoke lesson in Three.js Journey
+
+Decided to change up the concept a bit by assuming the "smoke" rising from the burning marshmallow on the CPU are individual bits leaking out.
+
+Goofy idea but hope you like the concept!
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
